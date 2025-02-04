@@ -1,5 +1,3 @@
-# mansaai
-mansa test system 
 import { useState } from "react";
 
 export default function Chatbot() {
@@ -64,4 +62,5 @@ export default function Chatbot() {
     </div>
   );
 }
+
 
